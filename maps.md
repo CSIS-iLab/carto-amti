@@ -85,24 +85,24 @@
 ## Claims map
 **Control**:
 
-1. Bangladesh
-2. Brunei
-3. Cambodia
-4. China
-5. India
-6. Indonesia
-7. Japan
-8. Malaysia
-9. Maldives
-10. Myanmar
-11. North Korea
-12. Philippines
-13. Singapore
-14. South Korea
-15. Sri Lanka
-16. Taiwan
-17. Thailand
-18. Vietnam
+1. Bangladesh https://csis.carto.com/api/v2/viz/0314c2ae-8b09-11e6-a81e-0ee66e2c9693/viz.json
+2. Brunei https://csis.carto.com/api/v2/viz/15702120-8b0c-11e6-8372-0e233c30368f/viz.json
+3. Cambodia https://csis.carto.com/api/v2/viz/3ea0fc22-8b0c-11e6-a384-0e05a8b3e3d7/viz.json
+4. China https://csis.carto.com/api/v2/viz/69246808-8b0c-11e6-8a44-0ecd1babdde5/viz.json
+5. India https://csis.carto.com/api/v2/viz/0e523d32-8b0d-11e6-8e95-0ecd1babdde5/viz.json
+6. Indonesia https://csis.carto.com/api/v2/viz/78af7e8c-8b09-11e6-949a-0e05a8b3e3d7/viz.json
+7. Japan https://csis.carto.com/api/v2/viz/7c0def16-8b0c-11e6-8a18-0ecd1babdde5/viz.json
+8. Malaysia https://csis.carto.com/api/v2/viz/c2272d62-8b09-11e6-9b34-0e3ff518bd15/viz.json
+9. Maldives https://csis.carto.com/api/v2/viz/353da2b4-8b09-11e6-9b14-0e233c30368f/viz.json
+10. Myanmar https://csis.carto.com/api/v2/viz/1e812d5c-8b09-11e6-8018-0e3ebc282e83/viz.json
+11. North Korea https://csis.carto.com/api/v2/viz/eed588e2-8b0c-11e6-a5c1-0e233c30368f/viz.json
+12. Philippines https://csis.carto.com/api/v2/viz/a459b9d2-8b0c-11e6-993d-0e3ff518bd15/viz.json
+13. Singapore https://csis.carto.com/api/v2/viz/64505150-8b09-11e6-b04d-0e3ff518bd15/viz.json
+14. South Korea https://csis.carto.com/api/v2/viz/5586c048-8b0c-11e6-b62c-0e3ff518bd15/viz.json
+15. Sri Lanka https://csis.carto.com/api/v2/viz/7890ceb6-8b08-11e6-9b05-0ecd1babdde5/viz.json
+16. Taiwan https://csis.carto.com/api/v2/viz/4c45d9ea-8b09-11e6-abdf-0e233c30368f/viz.json
+17. Thailand https://csis.carto.com/api/v2/viz/8e027eee-8b0c-11e6-949a-0e05a8b3e3d7/viz.json
+18. Vietnam https://csis.carto.com/api/v2/viz/d9ffe066-8b0c-11e6-99d1-0e3ebc282e83/viz.json
 
 ## Disputes map
 **Control**:
@@ -141,24 +141,24 @@
 ## Claims map
 **Control**:
 
-1. Bangladesh
-2. Brunei
-3. Cambodia
-4. China
-5. India
-6. Indonesia
-7. Japan
-8. Malaysia
-9. Maldives
-10. Myanmar
-11. North Korea
-12. Philippines
-13. Singapore
-14. South Korea
-15. Sri Lanka
-16. Taiwan
-17. Thailand
-18. Vietnam
+1. Bangladesh https://csis.carto.com/api/v2/viz/3c346ac2-8b0d-11e6-beb5-0e233c30368f/viz.json
+2. Brunei https://csis.carto.com/api/v2/viz/318ca070-8b0e-11e6-9fba-0ecd1babdde5/viz.json
+3. Cambodia https://csis.carto.com/api/v2/viz/43a81cc6-8b0e-11e6-beb4-0e05a8b3e3d7/viz.json
+4. China https://csis.carto.com/api/v2/viz/6e05c892-8b0e-11e6-beb5-0e233c30368f/viz.json
+5. India https://csis.carto.com/api/v2/viz/f46a35ee-8b0e-11e6-b68d-0e05a8b3e3d7/viz.json
+6. Indonesia https://csis.carto.com/api/v2/viz/cad74380-8b0d-11e6-b085-0ecd1babdde5/viz.json
+7. Japan https://csis.carto.com/api/v2/viz/81633c6c-8b0e-11e6-95d6-0e3ff518bd15/viz.json
+8. Malaysia https://csis.carto.com/api/v2/viz/1fd4c722-8b0e-11e6-a67a-0e3ebc282e83/viz.json
+9. Maldives https://csis.carto.com/api/v2/viz/65d8cd3c-8b0d-11e6-8309-0e233c30368f/viz.json
+10. Myanmar https://csis.carto.com/api/v2/viz/4de4ff20-8b0d-11e6-88bf-0ee66e2c9693/viz.json
+11. North Korea https://csis.carto.com/api/v2/viz/e00776c0-8b0e-11e6-9f2d-0ee66e2c9693/viz.json
+12. Philippines https://csis.carto.com/api/v2/viz/b7fe7836-8b0e-11e6-8ee6-0ee66e2c9693/viz.json
+13. Singapore https://csis.carto.com/api/v2/viz/8e0ffc9e-8b0d-11e6-aceb-0e233c30368f/viz.json
+14. South Korea https://csis.carto.com/api/v2/viz/59bc2156-8b0e-11e6-ac2c-0e3ff518bd15/viz.json
+15. Sri Lanka https://csis.carto.com/api/v2/viz/27740b88-8b0d-11e6-aceb-0e233c30368f/viz.json
+16. Taiwan https://csis.carto.com/api/v2/viz/79c9ce90-8b0d-11e6-83ed-0ee66e2c9693/viz.json
+17. Thailand https://csis.carto.com/api/v2/viz/a6c2b8de-8b0e-11e6-a5c1-0e233c30368f/viz.json
+18. Vietnam https://csis.carto.com/api/v2/viz/cab1607e-8b0e-11e6-896d-0e3ff518bd15/viz.json
 
 ## Disputes map
 **Control**:
