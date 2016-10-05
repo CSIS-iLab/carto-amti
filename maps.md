@@ -51,8 +51,8 @@
 ## Disputes map
 **Control**:
 
-1. 2000
-2. 2015
+1. 2000 https://csis.carto.com/api/v2/viz/df39c886-8b24-11e6-9483-0ecd1babdde5/viz.json
+2. 2015 https://csis.carto.com/api/v2/viz/2bf5c904-8b25-11e6-9b6a-0ee66e2c9693/viz.json
 
 ---------------------------------------
 
@@ -76,11 +76,11 @@
 ## Arbitration map
 **Control**:
 
-1. Rocks
-2. Low-tide Elevation/Submerged
-3. Continental Shelf/EEZ
-4. Territorial Seas
-5. 9-Dash Line
+1. Rocks https://csis.carto.com/api/v2/viz/fa3ab198-8b21-11e6-b952-0e233c30368f/viz.json
+2. Low-tide Elevation/Submerged https://csis.carto.com/api/v2/viz/7561157e-8b22-11e6-b09d-0e3ff518bd15/viz.json
+3. Continental Shelf/EEZ https://csis.carto.com/api/v2/viz/c8cab576-8b22-11e6-952f-0ee66e2c9693/viz.json
+4. Territorial Seas https://csis.carto.com/api/v2/viz/224239a8-8b23-11e6-8953-0e05a8b3e3d7/viz.json
+5. 9-Dash Line https://csis.carto.com/api/v2/viz/66edfbc8-8b23-11e6-ac62-0e3ff518bd15/viz.json
 
 ## Claims map
 **Control**:
@@ -107,8 +107,8 @@
 ## Disputes map
 **Control**:
 
-1. 2000
-2. 2015
+1. 2000 https://csis.carto.com/api/v2/viz/9382a1e6-8b25-11e6-be90-0e233c30368f/viz.json
+2. 2015 https://csis.carto.com/api/v2/viz/c46419ac-8b25-11e6-b219-0e3ebc282e83/viz.json
 
 ---------------------------------------
 
@@ -132,11 +132,11 @@
 ## Arbitration map
 **Control**:
 
-1. Rocks
-2. Low-tide Elevation/Submerged
-3. Continental Shelf/EEZ
-4. Territorial Seas
-5. 9-Dash Line
+1. Rocks https://csis.carto.com/api/v2/viz/3a1c08b6-8b22-11e6-b219-0e3ebc282e83/viz.json
+2. Low-tide Elevation/Submerged https://csis.carto.com/api/v2/viz/92a87672-8b22-11e6-9ae8-0e3ebc282e83/viz.json
+3. Continental Shelf/EEZ https://csis.carto.com/api/v2/viz/ed7e8096-8b22-11e6-a867-0e3ebc282e83/viz.json
+4. Territorial Seas https://csis.carto.com/api/v2/viz/351d7e16-8b23-11e6-a836-0ecd1babdde5/viz.json
+5. 9-Dash Line https://csis.carto.com/api/v2/viz/899b28a8-8b23-11e6-b719-0e233c30368f/viz.json
 
 ## Claims map
 **Control**:
@@ -163,8 +163,8 @@
 ## Disputes map
 **Control**:
 
-1. 2000
-2. 2015
+1. 2000 https://csis.carto.com/api/v2/viz/eb665ba0-8b25-11e6-ae82-0e05a8b3e3d7/viz.json
+2. 2015 https://csis.carto.com/api/v2/viz/097918bc-8b26-11e6-b835-0e233c30368f/viz.json
 
 ---------------------------------------
 
@@ -188,11 +188,11 @@
 ## Arbitration map
 **Control**:
 
-1. Rocks
-2. Low-tide Elevation/Submerged
-3. Continental Shelf/EEZ
-4. Territorial Seas
-5. 9-Dash Line
+1. Rocks https://csis.carto.com/api/v2/viz/58ad6d4c-8b22-11e6-b86e-0ee66e2c9693/viz.json
+2. Low-tide Elevation/Submerged https://csis.carto.com/api/v2/viz/af939d66-8b22-11e6-971b-0e05a8b3e3d7/viz.json
+3. Continental Shelf/EEZ https://csis.carto.com/api/v2/viz/0809af08-8b23-11e6-b86e-0ee66e2c9693/viz.json
+4. Territorial Seas https://csis.carto.com/api/v2/viz/4474eec6-8b23-11e6-841f-0e3ebc282e83/viz.json
+5. 9-Dash Line https://csis.carto.com/api/v2/viz/9ddb4622-8b23-11e6-9934-0e3ebc282e83/viz.json
 
 ## Claims map
 **Control**:
@@ -219,5 +219,5 @@
 ## Disputes map
 **Control**:
 
-1. 2000
-2. 2015
+1. 2000 https://csis.carto.com/api/v2/viz/3799dbf0-8b26-11e6-9a87-0e05a8b3e3d7/viz.json
+2. 2015 https://csis.carto.com/api/v2/viz/58f8ddaa-8b26-11e6-ac3a-0ee66e2c9693/viz.json
