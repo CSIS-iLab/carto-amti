@@ -20,33 +20,33 @@
 ## Arbitration map
 **Control**:
 
-1. Rocks
-2. Low-tide Elevation/Submerged
-3. Continental Shelf/EEZ
-4. Territorial Seas
-5. 9-Dash Line
+1. Rocks: https://csis.carto.com/api/v2/viz/c657156a-8b03-11e6-9f2f-0e3ff518bd15/viz.json
+2. Low-tide Elevation/Submerged: https://csis.carto.com/api/v2/viz/288ec782-8b04-11e6-b012-0ee66e2c9693/viz.json
+3. Continental Shelf/EEZ: https://csis.carto.com/api/v2/viz/c7a54508-8b04-11e6-8cd9-0e3ebc282e83/viz.json
+4. Territorial Seas: https://csis.carto.com/api/v2/viz/0b9688ee-8b05-11e6-994c-0ecd1babdde5/viz.json
+5. 9-Dash Line: https://csis.carto.com/api/v2/viz/5faf8938-8b02-11e6-a9d1-0ee66e2c9693/viz.json
 
 ## Claims map
 **Control**:
 
-1. Bangladesh
-2. Brunei
-3. Cambodia
-4. China
-5. India
-6. Indonesia
-7. Japan
-8. Malaysia
-9. Maldives
-10. Myanmar
-11. North Korea
-12. Philippines
-13. Singapore
-14. South Korea
-15. Sri Lanka
-16. Taiwan
-17. Thailand
-18. Vietnam
+1. Bangladesh: https://csis.carto.com/api/v2/viz/5e9f021e-8b05-11e6-8541-0e05a8b3e3d7/viz.json
+2. Brunei: https://csis.carto.com/api/v2/viz/adbed23e-8b05-11e6-9f2f-0e3ff518bd15/viz.json
+3. Cambodia: https://csis.carto.com/api/v2/viz/044d5ecc-8b06-11e6-bfcf-0ecd1babdde5/viz.json
+4. China: https://csis.carto.com/api/v2/viz/3fefab92-8b06-11e6-937b-0e05a8b3e3d7/viz.json
+5. India: https://csis.carto.com/api/v2/viz/6de8b822-8b06-11e6-a9d1-0ee66e2c9693/viz.json
+6. Indonesia: https://csis.carto.com/api/v2/viz/935e5e5e-8b06-11e6-888e-0e3ff518bd15/viz.json
+7. Japan: https://csis.carto.com/api/v2/viz/12076d72-8b07-11e6-8194-0e3ff518bd15/viz.json
+8. Malaysia: https://csis.carto.com/api/v2/viz/36522a46-8b07-11e6-a9eb-0e05a8b3e3d7/viz.json
+9. Maldives: https://csis.carto.com/api/v2/viz/676901b8-8b07-11e6-99a2-0e233c30368f/viz.json
+10. Myanmar: https://csis.carto.com/api/v2/viz/813b4f10-8b07-11e6-8de4-0ecd1babdde5/viz.json
+11. North Korea: https://csis.carto.com/api/v2/viz/aca08328-8b07-11e6-a4d7-0e233c30368f/viz.json
+12. Philippines: https://csis.carto.com/api/v2/viz/c2458f98-8b07-11e6-99a2-0e233c30368f/viz.json
+13. Singapore: https://csis.carto.com/api/v2/viz/df8a0250-8b07-11e6-b852-0e233c30368f/viz.json
+14. South Korea: https://csis.carto.com/api/v2/viz/17048994-8b08-11e6-bf0c-0e3ff518bd15/viz.json
+15. Sri Lanka: https://csis.carto.com/api/v2/viz/ff7b94a2-8b02-11e6-87dd-0e3ebc282e83/viz.json
+16. Taiwan: https://csis.carto.com/api/v2/viz/2dda3c4a-8b08-11e6-9bb6-0e3ebc282e83/viz.json
+17. Thailand: https://csis.carto.com/api/v2/viz/43667984-8b08-11e6-8786-0e233c30368f/viz.json
+18. Vietnam: https://csis.carto.com/api/v2/viz/5782e2a4-8b08-11e6-acc5-0ee66e2c9693/viz.json
 
 ## Disputes map
 **Control**:
