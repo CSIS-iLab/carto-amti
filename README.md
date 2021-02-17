@@ -1,6 +1,6 @@
 # Carto-AMTI
 
-Multilayer maps app for use in AMTI's maritime geotracking.
+This is a repository of multilayer map apps in AMTI's maritime geotracking. The only active map in use is the Arbitration Outcomes map for which the production code has been uploaded to the site via FTP.
 
 ### Documentation
 
